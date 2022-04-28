@@ -1,0 +1,19 @@
+{
+  "name": "vue3sever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenjinkun5/vue3Sever.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenjinkun5/vue3Sever/issues"
+  },
+  "homepage": "https://github.com/wenjinkun5/vue3Sever#readme"
+}
